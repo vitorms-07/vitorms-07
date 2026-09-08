@@ -9,11 +9,11 @@
 <h3 align="center"> ☁Sempre estou procurando crescer em todas 
 áreas da minha vida.</h3>
 <h1 align="center">
-    <img src = "https://i.pinimg.com/originals/c4/e3/ab/c4e3ab0487176e113bc37a0c452ad38d.gif" width = 180px/>
+    <img src = "https://media.tenor.com/CmyO09tZgdwAAAAM/bom-trabalho-leonardo-di-caprio.gif" width = 180px/>
 </h1>
 
 ---
-<div <h1 align="center"> Technologias que utilizo <img src = "https://i.pinimg.com/originals/bb/5a/35/bb5a35f5bb11b27920e16851841eb740.gif" width = 60px>
+<div <h1 align="center"> Technologias que utilizo <img src = "https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif" width = 60px>
 
 <div>
   <a href="https://www.w3schools.com/css/" target="_blank">
