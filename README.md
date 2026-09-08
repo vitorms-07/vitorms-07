@@ -9,7 +9,7 @@
 <h3 align="center"> ☁Sempre estou procurando crescer em todas 
 áreas da minha vida.</h3>
 <h1 align="center">
-    <img src = "https://media.tenor.com/CmyO09tZgdwAAAAM/bom-trabalho-leonardo-di-caprio.gif" width = 180px/>
+    <img src = "https://media.tenor.com/CmyO09tZgdwAAAAM/bom-trabalho-leonardo-di-caprio.gif" width = 150px/>
 </h1>
 
 ---
