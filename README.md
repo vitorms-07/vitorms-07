@@ -3,7 +3,7 @@
 
 ---
 <div>
-  <h1 align="center">Sobre mim<img src = "https://media.tenor.com/ADc5WppJLXUAAAAi/puglie-pug-puglie.gif" width = 50px </h1>
+  <h1 align="center">Sobre mim</h1>
 </div>
 <h3 align="center"> 🌊Atualmente estou estudando no <strong>SENAI</strong> o curso <strong>Técnico de Desenvolvimento de Sistemas.</strong> </h3>
 <h3 align="center"> ⛄Escolhi o curso de desenvonvimento de sistemas pois é uma area muito ampla e criativa. </h3>
