@@ -6,8 +6,7 @@
 </div>
 <h3 align="center"> 🌊Atualmente estou estudando no <strong>SENAI</strong> o curso <strong>Técnico de Desenvolvimento de Sistemas.</strong> </h3>
 <h3 align="center"> ⛄Escolhi o curso de desenvonvimento de sistemas pois é uma area muito ampla e criativa. </h3>
-<h3 align="center"> ☁Sempre estou procurando crescer em todas 
-áreas da minha vida.</h3>
+<h3 align="center"> ☁ O sucesso é a soma de pequenos esforços repetidos dia após dia.</h3>
 <h1 align="center">
     <img src = "https://media.tenor.com/CmyO09tZgdwAAAAM/bom-trabalho-leonardo-di-caprio.gif" width = 150px/>
 </h1>
