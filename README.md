@@ -10,7 +10,6 @@
 <h3 align="center"> ☁Sempre estou procurando crescer em todas 
 áreas da minha vida.</h3>
 <h1 align="center">
-  <img src = "https://i.pinimg.com/originals/c4/e3/ab/c4e3ab0487176e113bc37a0c452ad38d.gif" width = 180px/>
 </h1>
 
 ---
