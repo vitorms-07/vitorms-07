@@ -1,5 +1,4 @@
 <h1 align="center">Olá, meu nome é VITOR!!</h1>
-  <img src = "https://media.tenor.com/6_-osAtLuHUAAAAi/wave-cute.gif" width = 50px/>
 
 ---
 <div>
