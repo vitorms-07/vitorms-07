@@ -7,9 +7,10 @@
 </div>
 <h3 align="center"> 🌊Atualmente estou estudando no <strong>SENAI</strong> o curso <strong>Técnico de Desenvolvimento de Sistemas.</strong> </h3>
 <h3 align="center"> ⛄Escolhi o curso de desenvonvimento de sistemas pois é uma area muito ampla e criativa. </h3>
-<h3 align="center"> ☁Tambem sou professora de inglês e falo a lingua fluentemente.</h3>
+<h3 align="center"> ☁Sempre estou procurando crescer em todas 
+áreas da minha vida.</h3>
 <h1 align="center">
-  <img src = "https://i.pinimg.com/originals/b4/b8/6e/b4b86e2f95381b402e71fd3089d370ab.gif" width = 180px/>
+  <img src = "https://i.pinimg.com/originals/c4/e3/ab/c4e3ab0487176e113bc37a0c452ad38d.gif" width = 180px/>
 </h1>
 
 ---
