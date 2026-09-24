@@ -23,8 +23,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60" /></a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60" /></a>
-    <a href="https://www.pngmart.com/image/tag/canva-logo" target="_blank">
-      <img src="https://www.pngmart.com/files/23/Canva-Logo-PNG-File.png" alt="canva" width="60" height="60" /> 
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/3840px-Postgresql_elephant.svg.png" alt="javascript" width="60" height="60" />
   </a>
